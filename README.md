@@ -2,7 +2,7 @@
 
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Frederic Chien</h1>
-<p align = "justify">Full-stack programmer, always looking for the best back-end, front-end and mobile development technologies, he is a co-founder at Hogrid. Coffee lover, Javascript fan and @wordpress expert.</p>
+<p align = "justify">Full-stack programmer, always looking for the best back-end, front-end and mobile development technologies, he is a founder at Kyuubi and co-founder at Hogrid. Coffee lover, Javascript fan and @wordpress expert.</p>
 
 I currently work at Domatech [DOMATECH](https://www.domatech.com.br)
 
